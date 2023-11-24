@@ -1,0 +1,11 @@
+C:\Users\Precision\Documents\Visual Studio 2022\Projectos\coneccion_checadores_api\coneccion_checadores_api\obj\Release\net6.0\PubTmp\Out\coneccion_checadores_api.exe
+C:\Users\Precision\Documents\Visual Studio 2022\Projectos\coneccion_checadores_api\coneccion_checadores_api\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Precision\Documents\Visual Studio 2022\Projectos\coneccion_checadores_api\coneccion_checadores_api\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Precision\Documents\Visual Studio 2022\Projectos\coneccion_checadores_api\coneccion_checadores_api\obj\Release\net6.0\PubTmp\Out\coneccion_checadores_api.dll
+C:\Users\Precision\Documents\Visual Studio 2022\Projectos\coneccion_checadores_api\coneccion_checadores_api\obj\Release\net6.0\PubTmp\Out\coneccion_checadores_api.deps.json
+C:\Users\Precision\Documents\Visual Studio 2022\Projectos\coneccion_checadores_api\coneccion_checadores_api\obj\Release\net6.0\PubTmp\Out\coneccion_checadores_api.runtimeconfig.json
+C:\Users\Precision\Documents\Visual Studio 2022\Projectos\coneccion_checadores_api\coneccion_checadores_api\obj\Release\net6.0\PubTmp\Out\coneccion_checadores_api.pdb
+C:\Users\Precision\Documents\Visual Studio 2022\Projectos\coneccion_checadores_api\coneccion_checadores_api\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Precision\Documents\Visual Studio 2022\Projectos\coneccion_checadores_api\coneccion_checadores_api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Precision\Documents\Visual Studio 2022\Projectos\coneccion_checadores_api\coneccion_checadores_api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Precision\Documents\Visual Studio 2022\Projectos\coneccion_checadores_api\coneccion_checadores_api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
